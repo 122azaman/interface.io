@@ -1,0 +1,29 @@
+.table {
+  border: 1px solid black;
+}
+#table1 {
+  width: 638px;
+}
+.table1 {
+  width: 100px;
+  text-align: center;
+}
+.tables {
+  border: 1px solid black;
+}
+.table2 {
+  width: 700px;
+  text-align: right;
+}
+.tables2 {
+  width: 350px;
+}
+h3 {
+  font-size: 15px;
+}
+h2 {
+  font-size: 25px;
+}
+body {
+  font-family: 'Roboto', sans-serif;
+}
